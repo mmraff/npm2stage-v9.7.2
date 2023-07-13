@@ -1,15 +1,15 @@
-# @offliner/npm2stage-v9.6.7
-CLI to manage [**npm-two-stage**](https://github.com/mmraff/npm-two-stage/tree/npm9.6.7 "Learn why you might want this!") installation for npm 9.6.7
+# @offliner/npm2stage-v9.7.2
+CLI to manage [**npm-two-stage**](https://github.com/mmraff/npm-two-stage/tree/npm9.7.2 "Learn why you might want this!") installation for npm 9.7.2
 
 ## Installation
 ```
-$ npm install -g @offliner/npm2stage-v9.6.7
+$ npm install -g @offliner/npm2stage-v9.7.2
 ```
 
 ## Usage
 The npm installation that is to be the target of this tool's commands must have the targeted version. If it doesn't match, the tool will tell you so, and it will not operate on it.
 
-In these examples, the OS is Windows, the tool is used in a git bash console, and the target location is the typical global installation location. However, the tool (and [**npm-two-stage**](https://github.com/mmraff/npm-two-stage/tree/npm9.6.7 "Learn why you might want this!")) are platform-agnostic, and the target npm installation can be any accessible location, including on a removeable drive.
+In these examples, the OS is Windows, the tool is used in a git bash console, and the target location is the typical global installation location. However, the tool (and [**npm-two-stage**](https://github.com/mmraff/npm-two-stage/tree/npm9.7.2 "Learn why you might want this!")) are platform-agnostic, and the target npm installation can be any accessible location, including on a removeable drive.
 ```
 $ npm2stage status
 
